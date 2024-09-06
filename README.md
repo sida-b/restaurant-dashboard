@@ -11,4 +11,4 @@ Next, I studied the trend of revenue, number of orders, quantity of pizza sold. 
 
 Third, I identified the best and worst performing pizza in terms of revenue and quantity sold. 
 
-In conclusion, the pizza place earns the highest revenue around the second quarter and has the most orders in the third quarter. Orders are highest during Friday and during 12-1 pm and 5-6 pm. The store is recommended to create promotions and bundle during this period due to the high number of customers to increase sales. The restaurant sells 4 categories of pizza, with the Classic being the best selling. Lastly, the Brie Carre Pizza should be removed from menu due to its low sales.
+In conclusion, the pizza place earns the highest revenue around the second quarter and has the most orders in the third quarter. Orders are highest during Friday and during 12-1 pm and 5-6 pm. The store is recommended to create promotions and bundle during this period due to the high number of customers to increase sales. The restaurant sells 4 categories of pizza, with the classic being the best selling. Lastly, The Brie Carre Pizza should be removed from menu due to its low sales.
